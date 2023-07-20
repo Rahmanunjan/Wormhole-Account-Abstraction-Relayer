@@ -6,6 +6,7 @@ The Wormhole-Account-Abstraction (AA) Relayer intends to achieve two broad aims:
 2. Enable users to delegate payment of transaction fees to a Paymaster smart contract.
 
 OVERVIEW
+
 Client Side Relayers face two key problems. They are as follows:
 1. Users must sign all transactions with their wallets.
 2. Users must have funds to pay the transaction fees on every chain involved.
