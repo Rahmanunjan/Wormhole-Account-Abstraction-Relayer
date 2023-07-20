@@ -21,7 +21,7 @@ DEVELOPER INSTRUCTIONS
 CONTRIBUTOR EXPECTATIONS
 
 KNOWN ISSUES
-1. When installing 'npm init' , the License needs to be 'UNLICENSED'. Current license is 'Apache 2.0'.
+1. When installing 'npm init' , the License needs to be 'UNLICENSED' instead of 'Apache 2.0'.
 2. I was unable to install 'npm install --save-dev @nomicfoundation/hardhat-toolbox. This resulted in my smart contract not passing the 'npx hardhat test'. 
 
 LIKE THE PROJECT
